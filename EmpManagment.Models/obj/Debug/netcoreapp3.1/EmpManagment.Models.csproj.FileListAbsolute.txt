@@ -1,0 +1,9 @@
+D:\Study\BlazorStudy\EmpManagment\EmpManagment.Models\bin\Debug\netcoreapp3.1\EmpManagment.Models.deps.json
+D:\Study\BlazorStudy\EmpManagment\EmpManagment.Models\bin\Debug\netcoreapp3.1\EmpManagment.Models.dll
+D:\Study\BlazorStudy\EmpManagment\EmpManagment.Models\bin\Debug\netcoreapp3.1\EmpManagment.Models.pdb
+D:\Study\BlazorStudy\EmpManagment\EmpManagment.Models\obj\Debug\netcoreapp3.1\EmpManagment.Models.csprojAssemblyReference.cache
+D:\Study\BlazorStudy\EmpManagment\EmpManagment.Models\obj\Debug\netcoreapp3.1\EmpManagment.Models.csproj.CoreCompileInputs.cache
+D:\Study\BlazorStudy\EmpManagment\EmpManagment.Models\obj\Debug\netcoreapp3.1\EmpManagment.Models.AssemblyInfoInputs.cache
+D:\Study\BlazorStudy\EmpManagment\EmpManagment.Models\obj\Debug\netcoreapp3.1\EmpManagment.Models.AssemblyInfo.cs
+D:\Study\BlazorStudy\EmpManagment\EmpManagment.Models\obj\Debug\netcoreapp3.1\EmpManagment.Models.dll
+D:\Study\BlazorStudy\EmpManagment\EmpManagment.Models\obj\Debug\netcoreapp3.1\EmpManagment.Models.pdb
